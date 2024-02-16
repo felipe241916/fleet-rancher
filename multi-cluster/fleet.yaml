@@ -1,5 +1,5 @@
 ---
-namespace: gitops
+namespace: devops
 targetCustomizations:
 
 - name: cluster1-gke
